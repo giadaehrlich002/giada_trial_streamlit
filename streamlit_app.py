@@ -16,7 +16,7 @@ with st.expander('Data'):
   df_country_list
 
 ## experiment a bit with thte slider and the slide bars: 
-with st.slidebar: 
+with st.sidebar: 
   st.header('Parameters')
 
 
