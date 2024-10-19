@@ -1,5 +1,5 @@
 import streamlit as st
 
-st.title('Giada trail app ❤️')
-st.info("this prints the datasets")
-st.write('Hel!')
+st.title('Visualisation Results of Cracks dataset❤️')
+st.info("this app shows the training results of the object detection on the cract dataset")
+st.write('Welcome')
