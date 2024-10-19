@@ -9,6 +9,6 @@ st.write('modification')
 
 with st.expander('Data'): 
   st.write('**Raw data**')
-  df = pd.read_csv('https://github.com/giadaehrlich002/giada_trial_streamlit/blob/master/happiness2020.csv')
+  df = pd.read_csv('https://raw.githubusercontent.com/giadaehrlich002/giada_trial_streamlit/refs/heads/master/happiness2020.csv')
   df
   
