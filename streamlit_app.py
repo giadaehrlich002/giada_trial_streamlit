@@ -14,4 +14,10 @@ with st.expander('Data'):
   df
   df_country_list = df['country']
   df_country_list
+
+## experiment a bit with thte slider and the slide bars: 
+with st.slidebar: 
+  st.header('Parameters')
+
+
   
