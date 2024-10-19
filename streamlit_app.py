@@ -9,6 +9,7 @@ st.write('modification')
 
 with st.expander('Data'): 
   st.write('**Raw data**')
+  # you have to type in the path of the raw data"
   df = pd.read_csv('https://raw.githubusercontent.com/giadaehrlich002/giada_trial_streamlit/refs/heads/master/happiness2020.csv')
   df
   
