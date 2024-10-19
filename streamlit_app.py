@@ -8,5 +8,5 @@ st.write('Welcome')
 
 with st.expander('Data'): 
   st.write('**Raw data**')
-  df = pd.read_csv('dataset')
+  df = pd.read_csv('https://github.com/giadaehrlich002/giada_trial_streamlit/blob/master/happiness2020.csv')
   
