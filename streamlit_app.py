@@ -1,5 +1,5 @@
 import streamlit as st
 
-st.title('🎈 App Name')
-
-st.write('Hello world!')
+st.title('Giada trail app ❤️')
+st.info("this prints the datasets")
+st.write('Hel!')
