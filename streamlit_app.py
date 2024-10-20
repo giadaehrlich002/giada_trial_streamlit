@@ -18,6 +18,7 @@ with st.expander('Data'):
 ## experiment a bit with thte slider and the slide bars: 
 with st.sidebar: 
   st.header('Parameters')
+  st. 
 
 
   
